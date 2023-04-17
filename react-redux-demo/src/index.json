@@ -1,0 +1,152 @@
+{
+    "company": "brainarator",
+    "learning_paths": {
+        "Kubernetes": [
+            {
+                "learning_path_id": "start_with_kubernetes",
+                "title": "Start with Kubernetes",
+                "description": "Get started using Kubernetes. Learn the kubernetes concepts by doing.",
+                "is_premium": false,
+                "scenario_count": 6,
+                "icon": "https://brainarator.s3.amazonaws.com/kubernetes.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "managing_kubernetes_secrets",
+                "title": "Managing Kubernetes Secrets",
+                "description": "Learn Kubernetes Secret.",
+                "is_premium": false,
+                "scenario_count": 2,
+                "icon": "https://brainarator.s3.amazonaws.com/kubernetes.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "managing_kubernetes_resources_quota",
+                "title": "Managing Kubernetes Resources Quota",
+                "description": "Learn how to add constraints that limit aggregate resource consumption.",
+                "is_premium": false,
+                "scenario_count": 2,
+                "icon": "https://brainarator.s3.amazonaws.com/kubernetes.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "yaml_basics_in_kubernetes",
+                "title": "YAML Basics in Kubernetes",
+                "description": "Learn YAML for Kubernetes manifest development.",
+                "is_premium": false,
+                "scenario_count": 1,
+                "icon": "https://brainarator.s3.amazonaws.com/kubernetes.svg",
+                "type": "public"
+            }
+        ],
+        "Golang": [
+            {
+                "learning_path_id": "golang_basics",
+                "title": "Golang Basics",
+                "description": "Lets learn the basics of Go Programming and start writing your programs in Go Language",
+                "is_premium": false,
+                "scenario_count": 12,
+                "icon": "https://brainarator.s3.amazonaws.com/go.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "golang_errors",
+                "title": "Golang Errors",
+                "description": "Lets learn how to handle errors in Go Programming.",
+                "is_premium": false,
+                "scenario_count": 4,
+                "icon": "https://brainarator.s3.amazonaws.com/go.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "building_web_applications_with_go",
+                "title": "Building Web Applications with Go",
+                "description": "Lets learn how to create a web application in Go language.",
+                "is_premium": false,
+                "scenario_count": 1,
+                "icon": "https://brainarator.s3.amazonaws.com/go.svg",
+                "type": "public"
+            }
+        ],
+        "Docker": [
+            {
+                "learning_path_id": "introduction_to_docker",
+                "title": "Introduction to Docker",
+                "description": "Get started on Docker and explore its interesting features through the hands-on scenarios.",
+                "is_premium": false,
+                "scenario_count": 2,
+                "icon": "https://brainarator.s3.amazonaws.com/Docker.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "what_you_need_to_know_about_docker_networking",
+                "title": "What you need to know about Docker networking",
+                "description": "Get started on Docker networking.",
+                "is_premium": false,
+                "scenario_count": 4,
+                "icon": "https://brainarator.s3.amazonaws.com/Docker.svg",
+                "type": "public"
+            }
+        ],
+        "Docker Compose": [
+            {
+                "learning_path_id": "docker_compose_for_python_developers",
+                "title": "Docker Compose for Python Developers",
+                "description": "Lets learn the basics of Docker Compose for a python application.",
+                "is_premium": false,
+                "scenario_count": 1,
+                "icon": "https://brainarator.s3.amazonaws.com/Docker.svg",
+                "type": "public"
+            }
+        ],
+        "Docker Swarm": [
+            {
+                "learning_path_id": "start_your_orchestration_journey_with_docker_swarm",
+                "title": "Start Your Orchestration Journey with Docker Swarm",
+                "description": "Lets learn the how to orchestrate Docker Swarm.",
+                "is_premium": false,
+                "scenario_count": 1,
+                "icon": "https://brainarator.s3.amazonaws.com/Docker.svg",
+                "type": "public"
+            }
+        ],
+        "Python": [
+            {
+                "learning_path_id": "your_first_step_to_become_a_python_developer",
+                "title": "Your First Step to Become a Python Developer",
+                "description": "Lets learn the basics of Python Programming and start writing your programs in Python.",
+                "is_premium": false,
+                "scenario_count": 5,
+                "icon": "https://brainarator.s3.amazonaws.com/python.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "building_your_first_web_app_with_flask",
+                "title": "Building Your First Web App with Flask",
+                "description": "Lets learn how to build a web application with Flask.",
+                "is_premium": false,
+                "scenario_count": 5,
+                "icon": "https://brainarator.s3.amazonaws.com/python.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "python_scripting_for_system_administrators",
+                "title": "Python Scripting for System Administrators",
+                "description": "Lets learn how to develop python scripts for system admins.",
+                "is_premium": false,
+                "scenario_count": 4,
+                "icon": "https://brainarator.s3.amazonaws.com/python.svg",
+                "type": "public"
+            },
+            {
+                "learning_path_id": "kubernetes_for_python_developers",
+                "title": "Kubernetes for Python Developers",
+                "description": "Lets learn how python developers can create manifest for Kubernetes.",
+                "is_premium": false,
+                "scenario_count": 1,
+                "icon": "https://brainarator.s3.amazonaws.com/python.svg",
+                "type": "public"
+            }
+        ]
+    }
+}

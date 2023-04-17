@@ -1,0 +1,51 @@
+{
+    "learning_path_id": "start_with_kubernetes",
+    "title": "Start with Kubernetes",
+    "description": "Get started using Kubernetes. Learn the kubernetes concepts by doing.",
+    "icon": "https://brainarator.s3.amazonaws.com/kubernetes.svg",
+    "is_premium": false,
+    "scenarios": [
+        {
+            "scenario_id": "kubernetes_deployments",
+            "title": "Exploring Kubernetes Deployments",
+            "description": "Learn the basics of 'Deployments' in Kubernetes.",
+            "is_available": true,
+            "is_ready": true
+        },
+        {
+            "scenario_id": "deployment_vs_services",
+            "title": "Creating a Kubernetes Deployment",
+            "description": "Learn how to create a deployment in a kubernetes cluster.",
+            "is_available": true,
+            "is_ready": true
+        },
+        {
+            "scenario_id": "communication_between_containers_in_the_same_pod",
+            "title": "Communication among different containers in a Pod",
+            "description": "Explore the communication flow among containers in a pod.",
+            "is_available": true,
+            "is_ready": true
+        },
+        {
+            "scenario_id": "how_to_run_multiple_containers_in_a_pod",
+            "title": "How to run multiple containers in a Pod",
+            "description": "Lets learn deploying multiple containers in a single pod.",
+            "is_available": true,
+            "is_ready": true
+        },
+        {
+            "scenario_id": "formatting_kubectl_output",
+            "title": "Formatting Kubectl Output",
+            "description": "Lets learn about formatting the output by different Kubectl commands.",
+            "is_available": true,
+            "is_ready": true
+        },
+        {
+            "scenario_id": "init_containers",
+            "title": "Init containers",
+            "description": "Learn the basics of Init Containers and how these work.",
+            "is_available": true,
+            "is_ready": true
+        }
+    ]
+}
